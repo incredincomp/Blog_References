@@ -1,10 +1,10 @@
-                <a href="https://cheatsheetseries.owasp.org/cheatsheets/Unvalidated_Redirects_and_Forwards_Cheat_Sheet.html">cheatsheetseries.owasp.org/cheatsheets/Unvalidated_Redirects_and_Forwards_Cheat_Sheet.html</a></p>
-                <a href="https://cheatsheetseries.owasp.org/cheatsheets/Server_Side_Request_Forgery_Prevention_Cheat_Sheet.html">cheatsheetseries.owasp.org/cheatsheets/Server_Side_Request_Forgery_Prevention_Cheat_Sheet.html</a></p>
-                <a href="https://cheatsheetseries.owasp.org/assets/Server_Side_Request_Forgery_Prevention_Cheat_Sheet_SSRF_Bible.pdf">cheatsheetseries.owasp.org/assets/Server_Side_Request_Forgery_Prevention_Cheat_Sheet_SSRF_Bible.pdf</a></p>
-                <a href="https://www.hackerone.com/blog-How-To-Server-Side-Request-Forgery-SSRF">hackerone.com/blog-How-To-Server-Side-Request-Forgery-SSRF</a></p>
-                <a href="https://www.acunetix.com/blog/articles/server-side-request-forgery-vulnerability/">acunetix.com/blog/articles/server-side-request-forgery-vulnerability/</a></p>
-                <a href="https://ma.ttias.be/silly-little-ip-tricks/">https://ma.ttias.be/silly-little-ip-tricks/</a></p>
-                <a href="https://hackerone.com/reports/115748">https://hackerone.com/reports/115748</a></p>
-                <a href="https://maxchadwick.xyz/blog/ssrf-exploits-against-redis">maxchadwick.xyz/blog/ssrf-exploits-against-redis</a></p>
-                <a href="https://www.blackhat.com/docs/us-17/thursday/us-17-Tsai-A-New-Era-Of-SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages.pdf">www.blackhat.com/docs/us-17/thursday/us-17-Tsai-A-New-Era-Of-SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages.pdf</a></p>
-                <a href="https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Request%20Forgery">github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Request%20Forgery</a></p>
+[https://cheatsheetseries.owasp.org/cheatsheets/Unvalidated_Redirects_and_Forwards_Cheat_Sheet.html]
+[https://cheatsheetseries.owasp.org/cheatsheets/Server_Side_Request_Forgery_Prevention_Cheat_Sheet.html]
+[https://cheatsheetseries.owasp.org/assets/Server_Side_Request_Forgery_Prevention_Cheat_Sheet_SSRF_Bible.pdf]
+[https://www.hackerone.com/blog-How-To-Server-Side-Request-Forgery-SSRF]
+[https://www.acunetix.com/blog/articles/server-side-request-forgery-vulnerability/]
+[https://ma.ttias.be/silly-little-ip-tricks/]
+[https://hackerone.com/reports/115748]
+[https://maxchadwick.xyz/blog/ssrf-exploits-against-redis]
+[https://www.blackhat.com/docs/us-17/thursday/us-17-Tsai-A-New-Era-Of-SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages.pdf]
+[https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Request%20Forgery]
